@@ -1,0 +1,45 @@
+*{
+ padding: 2px;
+ box-sizing: border-box;
+}
+#encabezado {
+   background-color: #with;
+   text-align: center;
+   font-size: 35px;
+   color: purple;
+   height: auto;
+}
+
+.navbar {
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  font-size: 18px;
+  list-style-type:none;
+  height: auto;
+  background-color: #with;
+}
+
+
+
+#columna_principal {
+ float: left;
+ width: 70%;
+ height: 700px;
+ background-color: #BB8FCE;
+}
+#columna_publicidad {
+ float: left;
+ width: 30%;
+ height: 700px;
+ background-color: #9B59B6;
+}
+
+#pie {
+ clear: both;
+ display: flex;
+ background-color: #6C3483;
+ height: 80px;
+ text-align: center;
+ color: white;
+}
